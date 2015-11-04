@@ -9,5 +9,10 @@ public class NBTestGamePackageV1 extends DrawableAdapter
     {
           showGameBoard(gb);
 // TODO code application logic here
+
+    System.out.println("This is Just a test");
+    
+    
+
     }
 }
